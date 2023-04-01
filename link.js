@@ -1,1 +1,1 @@
-const offerLink = "https://yourlinkl.com";
+const offerLink = "https://heylink.me/aluraye";
